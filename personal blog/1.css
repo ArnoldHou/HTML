@@ -1,0 +1,29 @@
+body {
+            margin-top: 70px;
+            font-family: "標楷體";
+        }
+ #div{
+        width:600px;
+        height:550px;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-bottom:10px;
+        font-size: 200%;
+        float: right;
+        color: white;
+         
+    }
+    #picture{
+        width:300px;
+        height:500px;
+        float: left;
+    }
+    #container{
+        width:1000px;
+        margin:0 auto;
+    }
+    #title{
+        text-align: center;
+        color: white;
+        font-size: 300%;
+    }
